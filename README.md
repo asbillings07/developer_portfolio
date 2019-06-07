@@ -13,9 +13,21 @@ You can view this site live at the link here:
 
 ## Installation
 
-- Download the files
-- npm install to install of the required modules
-- npm start to start server and view webpage
+- Download the project files
+
+```
+- run npm install to install
+```
+
+    this will install all of the required modules in package.json
+
+- After all of the modules have been downloaded
+
+```
+- run npm start
+```
+
+    this will start the server and you can view the webpage
 
 ## Project Changes
 
