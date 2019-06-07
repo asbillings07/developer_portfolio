@@ -443,7 +443,7 @@ html {
 body {
   margin: 0;
   padding: 0;
-  background: #fefefe;
+  background: #b3cde0;
   font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
   font-weight: normal;
   line-height: 1.5;
@@ -536,10 +536,12 @@ textarea {
       flex-flow: row wrap; }
 
 .cell {
-  -ms-flex: 0 0 auto;
-      flex: 0 0 auto;
+  flex: 0 0 auto;
   min-height: 0px;
   min-width: 0px;
+  width: 48% !important;
+  padding-left: 10px;
+  display: inline-block;
   width: 100%; }
   .cell.auto {
     -ms-flex: 1 1 0px;

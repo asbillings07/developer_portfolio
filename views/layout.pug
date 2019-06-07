@@ -13,27 +13,27 @@ html(class="no-js" lang="en" dir="ltr")
       .grid-y.grid-padding-x(style='height: 100%;')
         block sidebar
           br
-          .cell.shrink
-            img.thumbnail(src='https://placehold.it/550x350')
+          div
+            img.profile(src='../static/images/profilePic.jpeg')
           .cell.auto
 
-            //- Add your name here.
-            h5 Name
+            
+            h5 #{name}
 
-            //- Add text here to describe who you are, what you do, and why you are so aweome.
+            
             p.text-light
-              | Descritption
+              | I am a Full Stack Developer with a passion for the web and JavaScript. 
 
-            //- Add about page route to the href below. 
-            a(href='') Learn More →
+            
+            a(href='/about') Learn More →
 
     .off-canvas-content(data-off-canvas-content='')
       .title-bar.hide-for-large
         .title-bar-left
           button.menu-icon(type='button', data-toggle='my-info')
 
-          //- Add your name here.  This is for the mobile screen sized version.
-          span.title-bar-title Name
+          
+          span.title-bar-title #{name}
       block content
         
 

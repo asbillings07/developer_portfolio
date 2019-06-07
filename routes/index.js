@@ -12,7 +12,7 @@ router.get("/about", (req, res) => {
   const phone = "678-523-5670";
   const email = "asbillings2007@gmail.com";
   const linkedIn = "https://www.linkedin.com/in/aaron-billings-9b429610a/";
-  const github = "https://github.com/asbillings07";
+  const github = "https://github.com/asbillings07?tab=repositories";
   const twitter = "https://twitter.com/AaronBillings8";
   res.render("about", { name, phone, email, linkedIn, github, twitter });
 });

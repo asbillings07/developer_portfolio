@@ -6,11 +6,12 @@
         "project_name": "Random Quote Generator",
         "description": "A program that displays a randomly selected quote each time the user clicks a button",
         "technologies": ["JavaScript"],
-        "live_link": "https://app.netlify.com/sites/frosty-shannon-cb07b6/overview",
+        "live_link": "https://random-quotes-generator.netlify.com/",
         "github_link": "https://github.com/asbillings07/Coding-Projects",
         "image_urls": [
-          "./static/images/random-generator1.png",
-          "./static/images/random-generator2.png"
+          "/static/images/random-generator1.png",
+          "/static/images/random-generator2.png",
+          "/static/images/random-generator3.png"
         ]
       },
       {
@@ -18,23 +19,25 @@
         "project_name": "List Pagination and Filtering",
         "description": "This app displays 10 students on one page and provides navigation to jump to a list of more items.",
         "technologies": ["JavaScript"],
-        "live_link": "https://relaxed-mcnulty-4e3ee4.netlify.com/",
+        "live_link": "https://list-pagination-app.netlify.com/",
         "github_link": "https://github.com/asbillings07/list_pagination_and_filtering-v1",
         "image_urls": [
-          "./static/images/pagination1.png",
-          "./static/images/pagination2.png"
+          "/static/images/paginationNew1.png",
+          "/static/images/pagination2.png",
+          "/static/images/pagination3.png"
         ]
       },
       {
         "id": 2,
-        "project_name": "Interactive Form with Validation",
+        "project_name": "Interactive Form",
         "description": "This is a form enhanced with JavaScript so that it’s engaging, interactive, and easy to use",
         "technologies": ["JavaScript", "JQuery"],
-        "live_link": "https://relaxed-ramanujan-eff619.netlify.com/",
+        "live_link": "https://interactive-form.netlify.com/",
         "github_link": "https://github.com/asbillings07/js-interactive-form",
         "image_urls": [
-          "./static/images/interaction-form1.png",
-          "./static/images/interaction-form2.png"
+          "/static/images/interactive-form1.png",
+          "/static/images/interactive-form2.png",
+          "/static/images/interactive-form3.png"
         ]
       },
       {
@@ -42,11 +45,12 @@
         "project_name": "Phrase Game",
         "description": "This is a browser-based, word guessing game: 'Jedi Hunter.' A player tries to guess the phrase by selecting individual letters from an onscreen keyboard before they run out of attempts.",
         "technologies": ["JavaScript", "JQuery", "OOP"],
-        "live_link": "https://serene-stallman-17edd6.netlify.com/",
+        "live_link": "https://jedi-hunter-game.netlify.com/",
         "github_link": "https://github.com/asbillings07/oop_game-v2",
         "image_urls": [
-          "./static/images/phrase-game1.png",
-          "./static/images/phrase-game2.png"
+          "/static/images/phrase-game1.png",
+          "/static/images/phrase-game2.png",
+          "/static/images/phrase-game3.png"
         ]
       },
       {
@@ -54,11 +58,12 @@
         "project_name": "Public Api Requests",
         "description": "This project creates an employee directory by communicating with a third-party API.",
         "technologies": ["JavaScript", "JQuery", "AJAX", "Fetch API"],
-        "live_link": "https://musing-pasteur-c6caa4.netlify.com/",
+        "live_link": "https://public-api-request.netlify.com/",
         "github_link": "https://github.com/asbillings07/public_api_requests",
         "image_urls": [
-          "./static/images/api-app1.png",
-          "./static/images/api-app2.png"
+          "/static/images/api-app1.png",
+          "/static/images/api-app2.png",
+          "/static/images/api-app3.png"
         ]
       }
     ]
