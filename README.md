@@ -35,6 +35,7 @@ You can view this site live at the link here:
 - Layout Background Color: darker blue
 - Layout Text color: White
 - Box Shadows added to main page
+- Added Animation to main page on hover
 
 ## Motivation
 

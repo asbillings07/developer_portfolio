@@ -119,6 +119,10 @@ a:hover {
 .portfolio-index .thumbnail {
   margin-bottom: 5px;
   box-shadow: 4px 5px #03396c;
+  transition: 1s;
+}
+.portfolio-index .thumbnail:hover {
+  transform: rotate(3deg);
 }
 
 .portfolio-index a {
