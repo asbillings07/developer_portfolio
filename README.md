@@ -14,9 +14,10 @@ You can view this site live at the link here:
 ## Installation
 
 - Download the project files
+- After the project files are downloaded
 
 ```
-- run npm install to install
+- run npm install
 ```
 
     this will install all of the required modules in package.json
