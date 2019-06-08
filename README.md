@@ -28,7 +28,7 @@ You can view this site live at the link here:
 - run npm start
 ```
 
-    this will start the server and you can view the webpage
+    this will serve the app and you can view the webpage on the server it tells you in the console
 
 ## Project Changes
 
@@ -36,7 +36,7 @@ You can view this site live at the link here:
 - Layout Background Color: darker blue
 - Layout Text color: White
 - Box Shadows added to main page
-- Added Animation to main page on hover
+- Added Animation to main page project pictures on hover
 
 ## Motivation
 
