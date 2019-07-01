@@ -4,7 +4,7 @@
 
 This is a site that holds some of my projects that I can display all together.
 
-You can view this site live at the link here:
+You can view this site live at the link here: https://developer-portfolio-app.herokuapp.com/
 
 ## Languages Used
 
