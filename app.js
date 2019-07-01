@@ -1,20 +1,20 @@
-const express = require("express");
-const bodyParser = require("body-parser");
-const cookieParser = require("cookie-parser");
+const express = require('express');
+const bodyParser = require('body-parser');
+const cookieParser = require('cookie-parser');
 
 const app = express();
-const mainRoutes = require("./routes");
-const projectRoutes = require("./routes/project");
+const mainRoutes = require('./routes');
+const projectRoutes = require('./routes/project');
 
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cookieParser());
-app.set("view engine", "pug");
-app.use("/static", express.static("public"));
+app.set('view engine', 'pug');
+app.use('/static', express.static('public'));
 app.use(mainRoutes);
 app.use(projectRoutes);
 
 app.use((req, res, next) => {
-  const err = new Error("Not Found");
+  const err = new Error('Not Found');
   err.status = 404;
   next(err);
 }); // create 404 error
@@ -32,9 +32,9 @@ app.use((err, req, res, next) => {
     console.log(err.message);
     console.log(err.stack);
   }
-  res.render("error");
+  res.render('error');
 }); // render template for the error.
 
-app.listen(3000, () => {
-  console.log("The server is running on local host: 3000!");
+app.listen(process.env.PORT || 3000, () => {
+  console.log('The server is running on local host: 3000!');
 });
