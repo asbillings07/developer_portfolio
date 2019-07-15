@@ -9,9 +9,9 @@
         "live_link": "https://random-quotes-generator.netlify.com/",
         "github_link": "https://github.com/asbillings07/random-quote-generator",
         "image_urls": [
-          "/static/images/random-generator1.png",
-          "/static/images/random-generator2.png",
-          "/static/images/random-generator3.png"
+          "/static/images/random-generator01.jpg",
+          "/static/images/random-generator02.jpg",
+          "/static/images/random-generator03.jpg"
         ]
       },
       {
@@ -22,9 +22,9 @@
         "live_link": "https://list-pagination-app.netlify.com/",
         "github_link": "https://github.com/asbillings07/list_pagination_and_filtering-v1",
         "image_urls": [
-          "/static/images/paginationNew1.png",
-          "/static/images/pagination2.png",
-          "/static/images/pagination3.png"
+          "/static/images/pagination01.jpg",
+          "/static/images/pagination02.jpg",
+          "/static/images/pagination03.jpg"
         ]
       },
       {
@@ -35,9 +35,9 @@
         "live_link": "https://interactive-form.netlify.com/",
         "github_link": "https://github.com/asbillings07/js-interactive-form",
         "image_urls": [
-          "/static/images/interactive-form1.png",
-          "/static/images/interactive-form2.png",
-          "/static/images/interactive-form3.png"
+          "/static/images/interactive-form01.jpg",
+          "/static/images/interactive-form02.jpg",
+          "/static/images/interactive-form03.jpg"
         ]
       },
       {
@@ -48,9 +48,9 @@
         "live_link": "https://jedi-hunter-game.netlify.com/",
         "github_link": "https://github.com/asbillings07/oop_game-v2",
         "image_urls": [
-          "/static/images/phrase-game1.png",
-          "/static/images/phrase-game2.png",
-          "/static/images/phrase-game3.png"
+          "/static/images/phrase-game01.jpg",
+          "/static/images/phrase-game02.jpg",
+          "/static/images/phrase-game03.jpg"
         ]
       },
       {
@@ -68,9 +68,9 @@
         "live_link": "https://public-api-request.netlify.com/",
         "github_link": "https://github.com/asbillings07/public_api_requests",
         "image_urls": [
-          "/static/images/api-app1.png",
-          "/static/images/api-app2.png",
-          "/static/images/api-app3.png"
+          "/static/images/api-app01.jpg",
+          "/static/images/api-app02.jpg",
+          "/static/images/api-app03.jpg"
         ]
       }
     ]
