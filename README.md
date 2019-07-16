@@ -6,10 +6,13 @@ This is a site that holds some of my projects that I can display all together.
 
 You can view this site live at the link here: https://developer-portfolio-app.herokuapp.com/
 
-## Languages Used
+## Technologies & Languages Used
 
 - JavaScript
 - JQuery
+- Node
+- Express
+- Pug
 
 ## Installation
 
