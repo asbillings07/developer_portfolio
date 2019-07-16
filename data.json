@@ -63,7 +63,8 @@
           "JavaScript",
           "JQuery",
           "AJAX",
-          "Fetch API"
+          "Fetch API",
+          "Netlify"
         ],
         "live_link": "https://public-api-request.netlify.com/",
         "github_link": "https://github.com/asbillings07/public_api_requests",
@@ -71,6 +72,79 @@
           "/static/images/api-app01.jpg",
           "/static/images/api-app02.jpg",
           "/static/images/api-app03.jpg"
+        ]
+      },
+      {
+        "id": 5,
+        "project_name": "React Gallery App",
+        "description": "This project creates a flickr type clone with the flickr API.",
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React",
+          "Axios",
+          "Fetch API",
+          "Netlify"
+        ],
+        "live_link": "https://gallerize.netlify.com/",
+        "github_link": "https://github.com/asbillings07/react_gallery_app",
+        "image_urls": [
+          "/static/images/gallery01.jpg",
+          "/static/images/gallery02.jpg",
+          "/static/images/gallery03.jpg"
+        ]
+      },
+      {
+        "id": 6,
+        "project_name": "SQL Library Manager",
+        "description": "This project is a library manager where you can create, view, update and delete books.",
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "SQL",
+          "Node",
+          "Sequelize ORM",
+          "Pug",
+          "Express",
+          "Heroku"
+        ],
+        "live_link": "https://sql-library-app.herokuapp.com/books",
+        "github_link": "https://github.com/asbillings07/sql_library_manager",
+        "image_urls": [
+          "/static/images/library01.jpg",
+          "/static/images/library02.jpg",
+          "/static/images/library03.jpg"
+        ]
+      },
+      {
+        "id": 7,
+        "project_name": "CourseShare",
+        "description": "This project is a Full Stack App with React and REST API that allows users to view, create, update and delete courses.",
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "SQL",
+          "Node",
+          "Sequelize ORM",
+          "REST API",
+          "Express",
+          "React",
+          "bcrypt",
+          "basic-auth",
+          "Fetch API",
+          "Axios",
+          "Heroku",
+          "Netlify"
+        ],
+        "live_link": "https://courseshare.netlify.com",
+        "github_link": "https://github.com/asbillings07/full-stack-react-with-restapi",
+        "image_urls": [
+          "/static/images/courseshare01.jpg",
+          "/static/images/courseshare02.jpg",
+          "/static/images/courseshare03.jpg"
         ]
       }
     ]
