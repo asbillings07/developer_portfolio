@@ -34,7 +34,8 @@ app.use((err, req, res, next) => {
   }
   res.render('error');
 }); // render template for the error.
+const port = process.env.PORT || 9000;
 
-app.listen(process.env.PORT || 3000, () => {
-  console.log('The server is running on local host: 3000!');
+app.listen(port, () => {
+  console.log(`The server is running on local host: ${port} !`);
 });
