@@ -8,7 +8,7 @@ p {
 }
 
 h5 {
-  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   letter-spacing: 2.5px;
   -webkit-text-transform: uppercase;
   text-transform: uppercase;
@@ -73,13 +73,18 @@ a:hover {
 }
 
 .portfolio-me a {
-  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 600;
   color: whitesmoke;
   font-size: 13px;
   letter-spacing: 2.5px;
   -webkit-text-transform: uppercase;
   text-transform: uppercase;
+}
+
+.linkedin {
+  height: 40px;
+  margin-left: 5px;
 }
 
 .portfolio-me a:hover {
@@ -93,7 +98,7 @@ a:hover {
 }
 
 .portfolio-breadcrumb a {
-  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 600;
   font-size: 13px;
   letter-spacing: 2.5px;
