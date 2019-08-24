@@ -4,7 +4,9 @@ const { data } = require('../data.json');
 const { projects } = data;
 
 router.get('/', (req, res) => {
-  res.render('index', { projects });
+  const linkedIn = 'https://www.linkedin.com/in/aaron-billings-9b429610a/';
+  const github = 'https://github.com/asbillings07?tab=repositories';
+  res.render('index', { projects, linkedIn, github });
 });
 
 router.get('/about', (req, res) => {
